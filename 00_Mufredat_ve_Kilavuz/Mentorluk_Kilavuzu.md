@@ -1,6 +1,6 @@
 # Mentorluk Programına Hoş Geldiniz!
 
-Veri Bilimi topluluğumuzun 10 haftalık yoğun "Python ve Makine Öğrenmesi Bootcamp" programında sizlerle birlikte ilerleyeceğimiz için çok heyecanlıyız. Bu süreçte temel kaynağımız, **Atıl Samancıoğlu'nun "Veri Bilimi için Python"** eğitimleri ile **Şadi Evren Şeker'in "Python ile Makine Öğrenmesi"** dersleri olacak.
+Veri Bilimi topluluğumuzun 10 haftalık yoğun "Python ve Makine Öğrenmesi Bootcamp" programında sizlerle birlikte ilerleyeceğimiz için çok heyecanlıyız. Bu süreçte temel kaynağımız,BTK Akademi üzerinden **Atıl Samancıoğlu'nun "Veri Bilimi için Python"** eğitimleri ile **Şadi Evren Şeker'in "Python ile Makine Öğrenmesi"** dersleri olacak.
 
 ## Program İşleyişi
 1. Her hafta eğitimden belirlenen modülleri izleyecek ve kendi bilgisayarınızda uygulayacaksınız.
