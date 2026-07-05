@@ -13,7 +13,7 @@ git config --global user.email "eposta@örnek.com"
 
 ## 2. Program Reposunu Fork'lamak
 
-Proje ana sayfasındaki **"Fork"** butonuna basarak depoyu kendi GitHub hesabınıza kopyalayın. Artık `github.com/kullanici-adiniz/AU-Veri-Bilimi-Mentorluk-Programi` adresinde size ait bir kopya olacak.
+Proje ana sayfasındaki **"Fork"** butonuna basarak depoyu kendi GitHub hesabınıza kopyalayın. Artık `github.com/kullanici-adiniz/AU-Veri-Bilimi-Mentorluk-Programi-2026` adresinde size ait bir kopya olacak.
 
 ## 3. Bilgisayara İndirmek (Clone)
 
